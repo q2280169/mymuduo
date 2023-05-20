@@ -1,0 +1,3 @@
+/home/gaowei/mymuduo/build/CMakeFiles/edit_cache.dir
+/home/gaowei/mymuduo/build/CMakeFiles/rebuild_cache.dir
+/home/gaowei/mymuduo/build/CMakeFiles/mymuduo.dir
